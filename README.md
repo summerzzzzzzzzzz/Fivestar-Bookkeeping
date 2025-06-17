@@ -27,7 +27,7 @@ Fivestar ensures client data aligns with Filecoin Plus program scope and legal r
 Choose Fivestar for a transparent, efficient, and client-focused DataCap allocation process, enhanced by our alignment with high-compliance frameworks like the HK CyberPort pathway. We serve small-scale developers, enterprise data clients, and Web3 startups, including those incubated by Cyberport, with a focus on public and private datasets for non-profit and social impact initiatives. Our rigorous KYB/KYC, video verification, and phased allocation (10%–50%, capped at 1 PiB) ensure trust and compliance. With tools like [DataCapStats.io](https://datacapstats.io) and a responsive dispute resolution process, we prioritize accountability and secure storage across diverse regions.
 
 ## Contact Info
-- **Slack**: Join our Slack channel at `#luster` for direct support.
+- **Slack**: Join our Slack channel at `#neeko` for direct support.
 - **Email**: Contact us at [852711390@qq.com](mailto:852711390@qq.com).
 - **GitHub Issues**: Open an issue on our [GitHub repository](https://github.com/summerzzzzzzzzzz) for inquiries or support.
 
